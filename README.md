@@ -37,12 +37,14 @@ Let’s connect, collaborate, and build something remarkable!
 <div align="center">
 
 ## 📊 GitHub Stats
-
 ![Profile Views](https://komarev.com/ghpvc/?username=arpsn123&color=brightgreen&style=flat-square)  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpsn123&theme=merko)](https://github.com/arpsn123/github-readme-activity-graph)
 ![Contributions](https://github-readme-stats.vercel.app/api?username=arpsn123&show_icons=true&theme=merko)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=arpsn123&theme=merko)](https://git.io/streak-stats)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpsn123&layout=compact&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=arpsn123&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpsn123&hide_progress=true&theme=merko)
+
+
+
 
 </div>
 
