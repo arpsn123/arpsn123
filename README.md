@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi, I'm **Arpan Nath** 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F78A33&pause=500&size=26&width=1010&lines=AI+Whisperer+and+Backend+Maestro%2C+Turning+Data+into+Intelligence)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=51F763&pause=800&duration=8000&width=730&lines=Architecting+Code%2C+Shaping+Digital+Futures%2C+One+API+at+a+Time)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F78A33&pause=500&size=26&width=1010&lines=AI+Whisperer+and+Backend+Maestro%2C+Turning+Data+into+Intelligence)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=51F763&pause=800&duration=8000&width=730&lines=Architecting+Code%2C+Shaping+Digital+Futures%2C+One+API+at+a+Time)
 
 
 ✨ **Backend Sorcerer** | 💻 **AI Enthusiast** | 🔍 **Data Explorer**
