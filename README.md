@@ -1,9 +1,10 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/ZqOGQO6ZMSqUYDHj0T/giphy.gif" width="200" height="200"/>
+
 # Hi, I'm **Arpan Nath** 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F78A33&pause=500&size=26&width=1010&lines=AI+Whisperer+and+Backend+Maestro%2C+Turning+Data+into+Intelligence)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=51F763&pause=800&duration=8000&width=730&lines=Architecting+Code%2C+Shaping+Digital+Futures%2C+One+API+at+a+Time)
-
 
 ✨ **Backend Sorcerer** | 💻 **AI Enthusiast** | 🔍 **Data Explorer**
 
@@ -26,12 +27,12 @@ In the world of **algorithms** and **data**, I’m on a quest to harness technol
 
 Fueled by **curiosity** and a drive to innovate, I’m constantly exploring the evolving landscape of technology. Backend development is my stronghold, but my passion lies in machine learning. I delve into data to uncover insights and believe in **connecting the dots** to make a difference.
 
-<img src="https://img.icons8.com/ios-filled/50/6c757d/link.png" width="30" height="30"/>
+
+<img src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" width="300" height="200"/>
 
 Let’s connect, collaborate, and build something remarkable!
 
 </div>
-
 
 ---
 
@@ -44,9 +45,6 @@ Let’s connect, collaborate, and build something remarkable!
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=arpsn123&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpsn123&hide_progress=true&theme=merko)
-
-
-
 
 </div>
 
@@ -90,21 +88,16 @@ Let’s connect, collaborate, and build something remarkable!
     </tr>
 </table>
 
-
 ---
 
 ## 📫 Connect with Me
 
-
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpan.nath1001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpan-nath)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpsn123)
-
-
 
 Let’s connect, collaborate, and build something remarkable! 🚀✨
 
 **Imagine a world where technology transcends boundaries, where algorithms not only solve problems but also spark joy, inspire change, and connect humanity in ways we’ve yet to dream. Together, let’s create that future!**
 
 </div>
-
