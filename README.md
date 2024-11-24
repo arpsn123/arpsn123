@@ -40,11 +40,13 @@ Let’s connect, collaborate, and build something remarkable!
 
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=arpsn123&color=brightgreen&style=flat-square)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpsn123&theme=merko)
-![Contributions](https://github-readme-stats.vercel.app/api?username=arpsn123&show_icons=true&theme=merko)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=arpsn123&theme=merko)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpsn123&hide_border=true&days=32&theme=modern-lilac)
+![Contributions](https://github-readme-stats.vercel.app/api?username=arpsn123&show_icons=true&theme=outrun)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=arpsn123&theme=outrun)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpsn123&hide_progress=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpsn123&hide_progress=true&theme=outrun)
+
+
 
 </div>
 
