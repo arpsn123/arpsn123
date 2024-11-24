@@ -56,15 +56,15 @@ Let’s connect, collaborate, and build something remarkable!
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,c,cpp,python,js,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,c,cpp,python,js,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,replit,sequelize,npm,yarn"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,symfony,nodejs,express,replit,sequelize,npm,yarn"/></td>
     </tr><tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
@@ -74,15 +74,15 @@ Let’s connect, collaborate, and build something remarkable!
         <td><img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,heroku"/></td>
     </tr><tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,githubactions"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,gitlab,github,githubactions"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,sublime,pycharm,clion,idea,webstorm,atom"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,replit,eclipse,visualstudio,sublime,pycharm,clion,idea,webstorm,atom"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,bash,powershell"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vite,postman,bash,powershell"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
