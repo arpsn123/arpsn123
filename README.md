@@ -60,7 +60,7 @@ Let’s connect, collaborate, and build something remarkable!
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,html,css,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
